@@ -20,6 +20,6 @@
 ## 📂 Proyectos 
 | Proyecto | Descripcion | Link |
 |---------|-------------|-------|
-
+| [Mining Safety ]() | Limpieza y manipulación de datasets | Excel, Power Query, Power Pivot |
 
 ## 🎓 Formación Académica
