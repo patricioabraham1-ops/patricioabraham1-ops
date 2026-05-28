@@ -20,6 +20,6 @@
 ## 📂 Proyectos 
 | Proyecto | Descripcion | Link |
 |---------|-------------|-------|
-| [Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics) | Limpieza y manipulación de datasets | Excel, Power Query, Power Pivot |
+| [Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics) | Este proyecto analiza alrededor de **300,000 registros reales** de accidentes, lesiones  y fatalidades en la industria minera de EE.UU. | Excel, Power Query, Power Pivot |
 
 ## 🎓 Formación Académica
