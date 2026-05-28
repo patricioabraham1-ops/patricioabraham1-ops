@@ -2,7 +2,7 @@
 
 # Hola, Soy Patricio Valenzuela  
 
-### Tecnico en Operaciones Mineras  | Ingeniero Civil en Minas | Analista de Datos
+### Tecnico en Operaciones Mineras  | Ingeniero Civil en Minas 
 
 ## 📬 Contacto
 
