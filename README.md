@@ -20,6 +20,6 @@
 ## 📂 Proyectos 
 | Proyecto | Descripcion | Link |
 |---------|-------------|-------|
-| [Mining Safety ]() | Limpieza y manipulación de datasets | Excel, Power Query, Power Pivot |
+| [Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics) | Limpieza y manipulación de datasets | Excel, Power Query, Power Pivot |
 
 ## 🎓 Formación Académica
