@@ -21,5 +21,5 @@
 | Proyecto | Descripcion | Link |
 |---------|-------------|-------|
 | [Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics) | El presente proyecto se basa en el análisis de aproximadamente 300,000 registros reales de accidentes, lesiones y fatalidades ocurridos en la industria minera de Estados Unidos. Como resultado, se ha creado un dashboard interactivo que permite explorar estos datos en profundidad y los KPI como el all Injures Rate y Fatality Injures Rate | Excel, Power Query, Power Pivot |
-
+|[Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics)|-------------|-------|
 ## 🎓 Formación Académica
