@@ -21,5 +21,5 @@
 | Proyecto | Descripcion | Link |
 |---------|-------------|-------|
 | [Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics) | El presente proyecto se basa en el análisis de aproximadamente 300,000 registros reales de accidentes, lesiones y fatalidades ocurridos en la industria minera de Estados Unidos. Como resultado, se ha creado un dashboard interactivo que permite explorar estos datos en profundidad y los KPI como el all Injures Rate y Fatality Injures Rate | Excel, Power Query, Power Pivot |
-|[Mining Safety Analytics](https://github.com/patricioabraham1-ops/mining-safety-analytics)|-------------|-------|
+|[Catastro de Relave en Chile](https://github.com/patricioabraham1-ops/Catastro-de-Relave---Chile)| El presente proyecto se basa en el análisis de registro oficial de depósitos de relaves en Chile, administrado por SERNAGEOMIN. Cubre 836 instalaciones activas e históricas en 9 regiones del país.Como resultado, se ha creado un dashboard interactivo que permite explorar estos datos en profundidad y los KPI para este Catastro de Relave.| Power BI,Power Query|
 ## 🎓 Formación Académica
